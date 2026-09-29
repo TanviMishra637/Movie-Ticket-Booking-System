@@ -63,15 +63,8 @@ Clone the GitHub repository or download the project files.
 ### 4. Run the program
 
 ```bash
-python movie_ticket_booking.py
+python Moviebookingvityarthi.py
 ```
-
-On some systems, use:
-
-```bash
-python3 movie_ticket_booking.py
-```
-
 ## How to Use
 
 1. Run the Python program.
