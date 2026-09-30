@@ -10,11 +10,10 @@ The project is designed as a simple beginner-friendly booking system using Pytho
 - Displays a list of available movies.
 - Shows the ticket price for each movie.
 - Displays the theatre seat arrangement.
-- Allows the user to select and book seats.
+- Allows the user to select a movie and book their desired seats.
 - Prevents a seat from being booked again during the current program run.
 - Calculates the total ticket price.
-- Provides an optional snack-ordering facility.
-- Supports multiple snack items and quantities.
+- Allows you to order different snacks as well
 - Calculates the total snack price.
 - Calculates and displays the final bill.
 
@@ -70,10 +69,10 @@ python Moviebookingvityarthi.py
 1. Run the Python program.
 2. Select one of the available movies.
 3. Check the ticket price and seat arrangement.
-4. Enter the number of tickets required.
+4. Enter the number of tickets you want to book
 5. Enter the seat IDs you want to book, such as `A1`, `B4`, or `H10`.
 6. The program displays the total ticket price.
-7. Choose whether you want to order snacks.
+7. Choose if you want to order snacks.
 8. If snacks are selected, enter the snack order ID and quantity.
 9. The program displays the snack total and final bill.
 
