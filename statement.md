@@ -2,15 +2,14 @@
 
 ## 1. Problem Statement
 
-Booking movie tickets manually can require users to check movie details, ticket prices, seat availability, and additional food options separately. A simple computerized system can combine these activities into one process.
+Booking movie tickets manually can require users to go to the theatres and check movie details, ticket prices, seat availability, and food options separately. A simple computerized system can combine these activities into one program.
 
-The Movie Ticket Booking System is designed to provide a basic console-based solution where a user can select a movie, view its ticket price and seat arrangement, book available seats, and optionally order snacks. The system then calculates the ticket cost, snack cost, and final bill.
+The Movie Ticket Booking System is designed to provide a basic console-based solution where a user can select a movie, view its ticket price and seat arrangement, book available seats, and optionally order snacks. The system then calculates the ticket cost, snack cost, and generates a  final bill.
 
 ## 2. Scope of the Project
 
-The project covers the basic movie ticket booking process through a Python console application.
+The project covers the basic movie ticket booking process which includes the following features
 
-The system includes:
 - Movie selection.
 - Display of ticket prices.
 - Seat arrangement display.
